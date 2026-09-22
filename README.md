@@ -1,11 +1,12 @@
 ## Hi there 👋 I'm Terence Keniya
 
+Aspiring AI & FinTech developer focused on building intelligent, scalable, and user-centric digital solutions.
+Exploring AI, automation, full-stack development, and financial technology to turn ideas into impactful products.
+
 <!--
 **terencedevs/terencedevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-Aspiring AI & FinTech developer focused on building intelligent, scalable, and user-centric digital solutions.
-Exploring AI, automation, full-stack development, and financial technology to turn ideas into impactful products.
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
