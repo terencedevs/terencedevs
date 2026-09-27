@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Terence Keniya
+## Hi there 👋 I'm Terence Hiten Keniya
 
 Aspiring AI & FinTech developer focused on building intelligent, scalable, and user-centric digital solutions.
 Exploring AI, automation, full-stack development, and financial technology to turn ideas into impactful products.
