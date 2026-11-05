@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Terence Hiten Keniya
+## Hi there 👋 I'm Terence Hiten Keniya <img height="40" alt="terencedevs" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!;Interested+Accounts+Finance+and+AI+/+Tech+Personnel;Always+learning+new+things+;AI+Enthusiast)](https://git.io/typing-svg)
 
