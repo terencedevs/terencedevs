@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋+I+am+Terence+Hiten+Keniya;+Welcome+to+My+Profile!;Interested+Accounts+Finance+and+AI+/+Tech+Personnel;Always+learning+new+things+;AI+Enthusiast)](https://git.io/typing-svg)
+## Hi there 👋 I'm Terence Hiten Keniya
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile!;Interested+Accounts+Finance+and+AI+/+Tech+Personnel;Always+learning+new+things+;AI+Enthusiast)](https://git.io/typing-svg)
 
 Aspiring AI & FinTech developer focused on building intelligent, scalable, and user-centric digital solutions.
 Exploring AI, automation, full-stack development, and financial technology to turn ideas into impactful products.
