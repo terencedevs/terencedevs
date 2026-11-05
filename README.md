@@ -12,7 +12,6 @@ Exploring AI, automation, full-stack development, and financial technology to tu
     .g { animation: fade 1s ease both; }
     @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
   </style>
-
   <defs>
     <!-- empty contribution cell, 11x11 -->
     <rect id="o" width="11" height="11" rx="2" ry="2"/>
