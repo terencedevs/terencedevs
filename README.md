@@ -63,5 +63,6 @@ Here are some ideas to get you started:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/terencedevs) 
 
 ![](assets/Bottom_down.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
